@@ -1,0 +1,12 @@
+commit 5d7a459c2d9fbf7b4f182edd63da4e2e47a868fe
+Author: Olga Kravtsova <okravtsova@cogniance.com>
+Date:   Wed Jul 20 13:27:57 2016 +0300
+
+    Modified test file
+
+    commit 921a8fa182909c8afc9ebab2429b7de83a96540d
+    Author: Olga Kravtsova <okravtsova@cogniance.com>
+    Date:   Wed Jul 20 13:21:03 2016 +0300
+
+        Added log and test files
+
